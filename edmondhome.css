@@ -1,0 +1,40 @@
+
+.font-sample {
+    /* font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; */
+    font-family: "Sofadi One", system-ui;
+    font-size: 30px;
+    font-weight: bold;
+    font-style: italic;
+    background-color: rgb(14, 187, 43);
+    color:azure;
+}
+
+/* Element Selector */
+h2 {
+    color: rgba(47, 0, 255, 0.89);
+ }
+ 
+ p {
+     color:rgba(119, 0, 255, 0.788);
+ } 
+
+
+.text-sample {
+    text-align: center;
+    text-transform:uppercase;
+    text-decoration: line-through;
+    font-size: 20px;
+}
+
+#spacing-sample {
+    letter-spacing: 5px;
+    line-height: 5;
+    background-color: rgb(30, 5, 99);
+    text-indent: 30px;
+}
+
+
+#shadow-sample {
+    text-shadow: 10px -5px 10px #b73a18;
+    font-size: 25px;
+}
